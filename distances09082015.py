@@ -56,10 +56,9 @@ os.chdir('/Users/rodrigoazuero/Documents/DATAIDB2015/Clusters/FinalFiles/Python/
 
 #-----------------------------------------------------------------
 #2. Store the API key in the following variables
-gmaps=Client('AIzaSyDxbFepKJ3Jr1PrAXV2RVvtn2QDaF3jnRQ')
-gmaps=Client(key='AIzaSyDxbFepKJ3Jr1PrAXV2RVvtn2QDaF3jnRQ')
-#gmaps = Client('AIzaSyB0-AyNgrMrX4TV8BFEDPUyidA5Ss4vzSU')
-#gmaps = Client(key='AIzaSyB0-AyNgrMrX4TV8BFEDPUyidA5Ss4vzSU')
+gmaps=Client('INSTERT-KEY-HERE')
+gmaps=Client(key='INSTERT-KEY-HERE')
+
 #-----------------------------------------------------------------
 
 #-----------------------------------------------------------------
